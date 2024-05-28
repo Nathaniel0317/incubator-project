@@ -5,8 +5,13 @@
 - M**s Excel for data cleaning**[Download here](http://microsoft.com)
 - **Power BI**[Download here](www.googgle.com)
 - *[Python](goggle.com)*
-- *[Goggle spreedsheet](goggle.com)*
-  ![](image (49).jpeg]
+- *[Goggle spreedsheet](goggle.com)
+![](images49.jpeg)
+
+|Heading 1| Heading 2| Heading 3|
+|---------| ---------| ---------|
+|Data 1| Data 2 | Data 3|
+
 
 ```
 Goggle Query Sheet
@@ -14,4 +19,5 @@ Goggle Query Sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 ```
+
 
