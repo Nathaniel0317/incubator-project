@@ -6,6 +6,7 @@
 - **Power BI**[Download here](www.googgle.com)
 - *[Python](goggle.com)*
 - *[Goggle spreedsheet](goggle.com)*
+  ![](image (49).jpeg]
 
 ```
 Goggle Query Sheet
@@ -13,3 +14,4 @@ Goggle Query Sheet
 SELECT * FROM TABLE 1
 WHERE CONDITION = NET
 ```
+
